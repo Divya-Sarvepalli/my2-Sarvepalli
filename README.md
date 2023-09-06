@@ -43,6 +43,12 @@ I'm not a sports person but there are some sports which everyone should try atle
 
 ---
 
+
+> #### SaaS application architecture:
+> <https://stackoverflow.com/questions/39119457/saas-application-architecture>
+>
+
+
 ```
 @function is-number($value) {
   @return type-of($value) == 'number';
@@ -94,4 +100,4 @@ I'm not a sports person but there are some sports which everyone should try atle
 
 ```
 
-
+<https://css-tricks.com/snippets/sass/advanced-type-checking/>
