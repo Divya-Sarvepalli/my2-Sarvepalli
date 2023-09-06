@@ -43,7 +43,7 @@ I'm not a sports person but there are some sports which everyone should try atle
 
 ---
 
-'''
+```
 @function is-number($value) {
   @return type-of($value) == 'number';
 }
@@ -91,6 +91,7 @@ I'm not a sports person but there are some sports which everyone should try atle
 @function is-position($value) {
   @return is-length($value) or is-percentage($value) or index('top' 'right' 'bottom' 'left' 'center', $value) != null;
 } 
-'''
+
+```
 
 
