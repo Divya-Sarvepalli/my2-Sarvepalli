@@ -24,7 +24,7 @@ I love Ooty because of the **climate**. It always have the low temperature and t
 ### Sports that you must try Once!
 I'm not a sports person but there are some sports which everyone should try atleast once. Because, it's beginner friendly and builds confidence so that we may enter into the ***Sports World!***
 
-| Sports Name | Reason | Hours in week |
+| Sports Name | Why to play | Hours per week |
 | --- | --- | :---: |
 | Badminton | Beginner Friendly | 3 |
 | Swimming | Improves Flexibility  | 2 |
@@ -39,3 +39,10 @@ I'm not a sports person but there are some sports which everyone should try atle
 >
 > - “If we knew what it was we were doing, it would not be called research, would it?” – ***Albert Einstein***
 >
+
+
+---
+
+
+
+
