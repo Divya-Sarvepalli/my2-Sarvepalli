@@ -17,4 +17,4 @@ I love Ooty because of the **climate**. It always have the low temperature and t
 * Chicken Chettinad
 
 
-[MyStats](MyStats.md)
+[MyStats Link](MyStats.md)
