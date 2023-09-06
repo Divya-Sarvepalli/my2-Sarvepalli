@@ -35,7 +35,7 @@ I'm not a sports person but there are some sports which everyone should try atle
 
 > ### 2 quotes by Scientists that I like:
 >
-> - “Everything is theoretically impossible until it is done.” – Robert A. Heinlein
+> - “Everything is theoretically impossible until it is done.” – ***Robert A. Heinlein***
 >
-> - “If we knew what it was we were doing, it would not be called research, would it?” – Albert Einsteinx
+> - “If we knew what it was we were doing, it would not be called research, would it?” – ***Albert Einsteinx***
 >
