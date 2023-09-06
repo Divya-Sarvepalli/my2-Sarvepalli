@@ -33,7 +33,7 @@ I'm not a sports person but there are some sports which everyone should try atle
 
 ---
 
-> ### 2 quotes by Scientists that you like:
+> ### 2 quotes by Scientists that I like:
 >
 > - “Everything is theoretically impossible until it is done.” – Robert A. Heinlein
 >
