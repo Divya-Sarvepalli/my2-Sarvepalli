@@ -30,3 +30,12 @@ I'm not a sports person but there are some sports which everyone should try atle
 | Swimming | Improves Flexibility  | 2 |
 | Cycling | cardiovascular fitness  | 2 |
 | Running | builds strong bones | 5 |
+
+---
+
+> ### 2 quotes by Scientists that you like:
+>
+> - “Everything is theoretically impossible until it is done.” – Robert A. Heinlein
+>
+> - “If we knew what it was we were doing, it would not be called research, would it?” – Albert Einsteinx
+>
